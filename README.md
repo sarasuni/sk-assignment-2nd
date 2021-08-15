@@ -17,9 +17,9 @@ I always wanted to build my own Website.
 
 
 ### Website Screen Shots: ###
-![image](./assets/screenshots/screenshot-1.png)
-![image](./assets/screenshots/screenshot-2.png)
-![image](./assets/screenshots/screenshot-3.png)
+![image](Assets/screenshots/screenshot-1.png)
+![image](Assets/screenshots/screenshot-2.png)
+![image](Assets/screenshots/screenshot-3.png)
 
 
 ### Website Contents: ###
