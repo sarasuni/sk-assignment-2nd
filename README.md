@@ -29,4 +29,5 @@ I always wanted to build my own Website.
       * About Me
       * Work
       * contact Info
-4. Footer is dedicated to display the website copyright and release information.
+4. When user clicks on Project title box the page is redirected to Github live deployment webpage.
+5. Footer is dedicated to display the website copyright and release information.
