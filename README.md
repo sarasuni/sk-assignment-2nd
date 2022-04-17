@@ -31,3 +31,6 @@ I always wanted to build my own Website.
       * contact Info
 4. When user clicks on Project title box the page is redirected to Github live deployment webpage.
 5. Footer is dedicated to display the website copyright and release information.
+
+### Deployed Link: ###
+https://sarasuni.github.io/sk-assignment-2nd/
